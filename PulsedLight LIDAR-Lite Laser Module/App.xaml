@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="PulsedLight_LIDAR_Lite_Laser_Module.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PulsedLight_LIDAR_Lite_Laser_Module"
+    RequestedTheme="Light">
+
+</Application>
